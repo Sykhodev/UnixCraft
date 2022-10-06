@@ -1,7 +1,18 @@
 # UnixCraft WIP
 
-This is a personal project to help people installing a minecraft modded server on their Linux Server.
+## 📜 About the project
 
-This will get updates, and I will make a site where people will be able to download the good installer.
+UnixCraft has been created to simply install MineCraft modded server on a Linux server !
+The script will be improved and you can also help if you wish  👌 !
+At the moment a few modpacks are available on the installer.
 
-This is more or less the first time I make a "real" bash script.
+## 📚 Usage
+
+` bash ./unixcraft.sh`
+
+
+## 📑 License
+
+MIT License
+
+Copyright (c) Sykho
